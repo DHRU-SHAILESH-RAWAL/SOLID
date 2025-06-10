@@ -1,2 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Learningg SOLID principle  With Examples");
+Console.WriteLine("Learning widely used SOLID principle  With Examples");
